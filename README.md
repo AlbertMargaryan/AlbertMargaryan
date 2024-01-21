@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Albert]
+## Hi there 👋 I'm Albert Margaryan
 ![](https://visitor-badge.laobi.icu/badge?page_id=AlbertMargaryan) [![Github](https://img.shields.io/github/followers/AlbertMargaryan?label=Followers&logo=Github)](https://github.com/AlbertMargaryan)
 
 
@@ -29,8 +29,6 @@
 
 <br />
 
-
-
 ## 🧰 Languages and Tools:
 
  <h3 align="center">💻 Programming Languages </h3> 
@@ -38,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" />
   </p>
 </p>
+<br />
 <h3 align="center">🌐 Web Development</h3> 
 <p align="center">
  
