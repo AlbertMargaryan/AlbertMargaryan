@@ -29,28 +29,28 @@
 
 
 ## 🧰 Languages and Tools:
-## 💻 Programming Languages
+### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages" />
   </a>
 </p>
 
-## 🌐 Web Development
+### 🌐 Web Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Web Development" />
   </a>
 </p>
 
-## 🛠️ Development Tools
+### 🛠️ Development Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="Development Tools" />
   </a>
 </p>
 
-## 🎨 Design Tools
+### 🎨 Design Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design Tools" />
