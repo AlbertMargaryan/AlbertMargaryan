@@ -23,6 +23,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/albert-margaryan-web" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin"></a>
  <a href="mailto:albertmargaryan2004@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"></a> 
+ <a href="https://stackoverflow.com/users/12999284/albert-margaryan"> <img src="https://skillicons.dev/icons?i=stackoverflow" /> </a>
 </p>
 
 <br />
