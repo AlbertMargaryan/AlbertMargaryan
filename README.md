@@ -43,7 +43,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/firebase-3521422-2944870.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.figma.com/static/images/favicons/favicon-32x32.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/adobe-37-226007.png" alt="Adobe Photoshop" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/adobe-38-226008.png" alt="Adobe Illustrator" height="40" style="vertical-align:top; margin:4px">
 </p>
