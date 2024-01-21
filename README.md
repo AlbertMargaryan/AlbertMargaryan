@@ -4,13 +4,14 @@
 
 
 
-## 🎓 I'm a Freelance Data Scientist
+## 🎓 First-Year Honours BSc Student in Computer Science @ Toronto Metropolitan University (Formerly Ryerson)
 
-- 🔭 I’m currently building my [Fiverr](https://www.fiverr.com/harryioan/) Gigs.
-- 🌱 I’m currently learning Rshiny. 
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything
-- 🤖 I am a [PyData](https://pydata.org/) Mentor. How may AI help you?
+- 🚀 Currently working as a Front-end Developer on various freelance projects.
+- 🌐 Experienced in designing and developing visually appealing and responsive frontend components.
+- 🤝 Collaborating closely with clients to understand their requirements and goals.
+- 🛠️ Proficient in technologies such as Javascript (jQuery), React, Python, Java, HTML, CSS (SASS/SCSS), and more.
+- 📚 Continuously expanding skills and staying updated on industry trends.
+- 🌟 Committed to delivering engaging user experiences and implementing effective backend functionalities.
 
 ## :email: Find me on:
 
