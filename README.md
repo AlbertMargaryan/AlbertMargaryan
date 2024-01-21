@@ -1,58 +1,80 @@
-# Albert Margaryan - Crafting Digital Experiences
+## Hi there 👋 I'm [Albert]
+![](https://visitor-badge.laobi.icu/badge?page_id=AlbertMargaryan) [![Github](https://img.shields.io/github/followers/AlbertMargaryan?label=Followers&logo=Github)](https://github.com/AlbertMargaryan)
 
-Hey there! 👋 I'm Albert Margaryan, a Web Developer hailing from the vibrant city of Toronto, ON. My passion lies in creating seamless and captivating digital experiences that leave a lasting impression. Dive into my coding universe through [GitHub](https://github.com/AlbertMargaryan) and join me on this exciting journey of innovation and creativity!
 
-## Education
 
-- **Toronto Metropolitan University (formerly Ryerson)**
-  - Bachelor of Science, Major in Computer Science
-  - Expected Graduation: 2027
-  - Current CGPA: 4.07/4.33
 
-## Professional Chronicles
+## 🎓 I'm a Freelance Data Scientist
 
-### HATO HUB - UI/UX Alchemist
+- 🔭 I’m currently building my [Fiverr](https://www.fiverr.com/harryioan/) Gigs.
+- 🌱 I’m currently learning Rshiny. 
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about anything
+- 🤖 I am a [PyData](https://pydata.org/) Mentor. How may AI help you?
 
-*Toronto, ON | March 2022 - August 2022 (Contract)*
+## :email: Find me on:
 
-Embark on the adventure where pixels meet purpose! At HATO HUB, I played a pivotal role in deciphering user needs and translating them into enchanting digital landscapes.
+<!--
+[<img align="left" alt="AlbertMargaryan" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AlbertMargaryan | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlbertMargaryan | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
 
-- Unveiled user insights through engaging interviews, forging the path to user-centric design.
-- Crafted affinity maps and conducted magical heuristic evaluations for frontend and backend spells.
-- Weaved inclusive digital realms by vanquishing accessibility issues with actionable feedback.
-- Conjured personas and empathy maps to understand the essence of our digital audience.
-- Led the charge in user research, turning insights into spells that enhanced our product enchantments.
-- Pioneered the visual journey of a new website, casting the spell of wireframes for design guidance.
+<p align="center">
+ <a href="https://www.linkedin.com/in/albert-margaryan-web" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:albertmargaryan2004@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="email" height="40" style="vertical-align:top; margin:4px"> </a>
+</p>
 
-### Freelance Developer - Frontend Sorcerer
+<br />
 
-*Toronto, ON | August 2022 - Present*
 
-As a Freelance Frontend Sorcerer, I bring designs to life and make websites dance to the rhythm of user delight.
+## 🧰 Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+</p>
 
-- Designed and conjured visually stunning and responsive frontend components for captivating landing pages.
-- Infused backend magic for seamless user-business communication.
-- Collaborated closely with clients, turning their wishes into a digital reality.
+<br />
 
-## The Potion Ingredients
+## :blue_book: Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with Git and GitHub: A simple roadmap](https://dev.to/charalambosioannou/getting-started-with-git-and-github-a-simple-roadmap-lfn)
+- [Dream Job vs. Tech Job?](https://dev.to/charalambosioannou/dream-job-vs-tech-job-5fdj)
+- [Create an Awesome Cover Letter with GPT-3](https://dev.to/charalambosioannou/create-an-awesome-cover-letter-with-gpt-3-4f65)
+- [10+1 Useful Python Code Snippets for Everyday Problems](https://dev.to/charalambosioannou/10-useful-one-liner-python-code-snippets-to-make-your-everyday-coding-useful-javascript-code-snippets-for-common-problems-351)
+- [Develop a mobile app with NO coding!!](https://dev.to/charalambosioannou/develop-a-mobile-app-without-one-line-of-code-oeh)
+<!-- BLOG-POST-LIST:END -->
 
-- **Languages:** Javascript (jQuery), React, Python, Java
-- **Web Alchemy:** HTML (BEM, Bootstrap 4, SEO), CSS (SASS/SCSS), node.js
-- **Magical Tools:** Github, GitLab, MySQL, Firebase, Figma
-- **Design Elixirs:** Adobe Photoshop, Adobe Illustrator
 
-## Scrolls of Certification
 
-- Graduated from the Armenian Code Academy Javascript/React Bootcamp.
-- Completed the Designlab UI/UX Designer Course.
+## :trophy: My Github Stats:
 
-## Essence of Soft Skills
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+</a>
+</div>
 
-- Teamwork 🤝
-- Problem-solving 🧠
-- Time Management ⏳
-- Adaptability 🌀
-- Communication 🗣️
-- Stress Management 🌪️
 
-Feel the pulse of my code, explore the enchantments in my repositories, and let's embark on a magical coding journey together! ✨🔮
+
+[website]: https://charalambosioannou.tech
+[linkedin]: https://linkedin.com/in/charalambosioannou
+[mail]: mailto:cioannou1997@gmail.com
