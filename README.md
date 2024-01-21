@@ -38,9 +38,9 @@
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" />
   </p>
 </p>
-
+<h3 align="center">🌐 Web Development</h1> 
 <p align="center">
- <h3 align="center">🌐 Web Development</h1> 
+ 
  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs" alt="🌐 Web Development" />
 </p>
 
