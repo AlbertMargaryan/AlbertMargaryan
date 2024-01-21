@@ -30,22 +30,23 @@
 
 
 ## 🧰 Languages and Tools:
-<p align="center">
-  💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages"/>
+<p style="font-size:25px;">
+  <p align="center">
+    💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages"/>
+  </p>
+  
+  <p align="center">
+    🌐 Web Development <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Web Development" />
+  </p>
+  
+  <p align="center">
+    🛠️ Development Tools <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="Development Tools">
+  </p>
+  
+  <p align="center">
+    🎨 Design Tools <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design Tools"/>
+  </p>
 </p>
-
-<p align="center">
-  🌐 Web Development <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Web Development" />
-</p>
-
-<p align="center">
-  🛠️ Development Tools <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="Development Tools">
-</p>
-
-<p align="center">
-  🎨 Design Tools <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design Tools"/>
-</p>
-
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Git and GitHub: A simple roadmap](https://dev.to/charalambosioannou/getting-started-with-git-and-github-a-simple-roadmap-lfn)
