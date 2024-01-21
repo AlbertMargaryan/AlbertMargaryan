@@ -31,33 +31,20 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <h3> 🧰 Languages and Tools: </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages" />
-  </a>
+  💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="💻 Programming Languages" width="60" />
 </p>
 
-### 🌐 Web Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Web Development" />
-  </a>
+  🌐 Web Development <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="🌐 Web Development" width="60" />
 </p>
 
-### 🛠️ Development Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="Development Tools" />
-  </a>
+  🛠️ Development Tools <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="🛠️ Development Tools" width="60" />
 </p>
 
-### 🎨 Design Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design Tools" />
-  </a>
+  🎨 Design Tools <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="🎨 Design Tools" width="60" />
 </p>
-<br />
 
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
