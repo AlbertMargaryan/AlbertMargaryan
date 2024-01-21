@@ -35,7 +35,7 @@
 <p align="center">
  
   ### 💻 Programming Languages 
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" align="center"/>
 </p>
 
 <p align="center">
