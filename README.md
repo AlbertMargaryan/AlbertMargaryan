@@ -31,11 +31,15 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-  ### 💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="💻 Programming Languages" />
+ 
+  ### 💻 Programming Languages 
+  <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="💻 Programming Languages" />
 </p>
 
 <p align="center">
-  ### 🌐 Web Development <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="🌐 Web Development" />
+ 
+  ### 🌐 Web Development 
+ <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="🌐 Web Development" />
 </p>
 
 <p align="center">
