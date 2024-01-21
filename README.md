@@ -33,24 +33,24 @@
 
 ## 🧰 Languages and Tools:
 
- <h3 align="center">💻 Programming Languages </h1> 
+ <h3 align="center">💻 Programming Languages </h3> 
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" />
   </p>
 </p>
-<h3 align="center">🌐 Web Development</h1> 
+<h3 align="center">🌐 Web Development</h3> 
 <p align="center">
  
  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs" alt="🌐 Web Development" />
 </p>
 
 <p align="center">
- <h3 align="center">🛠️ Development Tools</h1> 
+ <h3 align="center">🛠️ Development Tools</h3> 
   <img src="https://skillicons.dev/icons?i=github,git,gitlab,mysql,firebase,bash,webpack" alt="🛠️ Development Tools" />
 </p>
 
 <p align="center">
- <h3 align="center">🎨 Design Tools:</h1> 
+ <h3 align="center">🎨 Design Tools:</h3> 
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" alt="🎨 Design Tools" />
 </p>
 
