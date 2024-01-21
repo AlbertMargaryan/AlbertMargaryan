@@ -32,10 +32,12 @@
 
 
 ## 🧰 Languages and Tools:
-<p align="center">
+
  
   ### 💻 Programming Languages 
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" align="center"/>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" />
+  </p>
 </p>
 
 <p align="center">
