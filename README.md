@@ -43,11 +43,15 @@
 </p>
 
 <p align="center">
-  ### 🛠️ Development Tools <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="🛠️ Development Tools" />
+ 
+  ### 🛠️ Development Tools 
+  <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="🛠️ Development Tools" />
 </p>
 
 <p align="center">
-  ### 🎨 Design Tools <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="🎨 Design Tools" />
+ 
+  ### 🎨 Design Tools 
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="🎨 Design Tools" />
 </p>
 
 ## :blue_book: Blog posts:
