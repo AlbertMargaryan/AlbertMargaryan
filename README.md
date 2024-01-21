@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 18px;">🛠️ Development Tools</span> <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="🛠️ Development Tools" width="60" />
+  <span style="font-size: 50px;">🛠️ Development Tools</span> <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="🛠️ Development Tools" width="60" />
 </p>
 
 <p align="center">
