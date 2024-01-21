@@ -29,24 +29,7 @@
 
 
 ## 🧰 Languages and Tools:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://getbootstrap.com/docs/4.0/assets/img/bootstrap-stack.png" alt="Bootstrap 4" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/css3-11-555367.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="SASS/SCSS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" alt="GitLab" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/firebase-3521422-2944870.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/adobe-37-226007.png" alt="Adobe Photoshop" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/adobe-38-226008.png" alt="Adobe Illustrator" height="40" style="vertical-align:top; margin:4px">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <br />
 
