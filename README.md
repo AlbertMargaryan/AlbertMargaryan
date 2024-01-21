@@ -31,7 +31,7 @@
 
 ## 🧰 Languages and Tools:
 <p >
-  <p align="center" style="font-size:50px;">
+  <p align="center" style="font-size: 18px;">
     💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages"/>
   </p>
   
