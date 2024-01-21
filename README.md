@@ -33,10 +33,7 @@
 
 ## 🧰 Languages and Tools:
 
- <dl><dd>
-  
-  ### 💻 Programming Languages 
- </dd></dl>
+ <h1 align="center">### 💻 Programming Languages </h1> 
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" />
   </p>
