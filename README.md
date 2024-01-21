@@ -21,8 +21,8 @@
 -->
 
 <p align="center">
- <a href="https://www.linkedin.com/in/albert-margaryan-web" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:albertmargaryan2004@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://www.linkedin.com/in/albert-margaryan-web" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin"></a>
+ <a href="mailto:albertmargaryan2004@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"></a> 
 </p>
 
 <br />
@@ -45,13 +45,13 @@
 <p align="center">
  
   ### 🛠️ Development Tools 
-  <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="🛠️ Development Tools" />
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,mysql,firebase,bash," alt="🛠️ Development Tools" />
 </p>
 
 <p align="center">
  
   ### 🎨 Design Tools 
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="🎨 Design Tools" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" alt="🎨 Design Tools" />
 </p>
 
 ## :trophy: My Github Stats:
