@@ -31,19 +31,19 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="💻 Programming Languages" width="60" />
+  💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages"/>
 </p>
 
 <p align="center">
-  🌐 Web Development <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="🌐 Web Development" width="60" />
+  🌐 Web Development <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Web Development" width="60" />
 </p>
 
 <p align="center">
-  🛠️ Development Tools <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="🛠️ Development Tools" width="60" />
+  🛠️ Development Tools <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" alt="Development Tools">
 </p>
 
 <p align="center">
-  🎨 Design Tools <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="🎨 Design Tools" width="60" />
+  🎨 Design Tools <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design Tools"/>
 </p>
 
 ## :blue_book: Blog posts:
