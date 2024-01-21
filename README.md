@@ -23,7 +23,6 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/albert-margaryan-web" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:albertmargaryan2004@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
-  <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="email" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 <br />
@@ -31,18 +30,22 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://getbootstrap.com/docs/4.0/assets/img/bootstrap-stack.png" alt="Bootstrap 4" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/css3-11-555367.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="SASS/SCSS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" alt="GitLab" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/firebase-3521422-2944870.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.figma.com/static/images/favicons/favicon-32x32.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/adobe-37-226007.png" alt="Adobe Photoshop" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/adobe-38-226008.png" alt="Adobe Illustrator" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
