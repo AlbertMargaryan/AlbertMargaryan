@@ -61,11 +61,11 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=AlbertMargaryan&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertMargaryan&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=AlbertMargaryan&theme=github_dark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertMargaryan&count_private=true&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=github_dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=github_dark" />
 </a>
 </div>
 
