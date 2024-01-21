@@ -39,7 +39,7 @@
 <p align="center">
  
   ### 🌐 Web Development 
- <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" alt="🌐 Web Development" />
+ <img src="https://skillicons.dev/icons?i=react,html,css,nodejs" alt="🌐 Web Development" />
 </p>
 
 <p align="center">
