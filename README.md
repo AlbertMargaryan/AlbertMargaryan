@@ -45,7 +45,7 @@
 <p align="center">
  
   ### 🛠️ Development Tools 
-  <img src="https://skillicons.dev/icons?i=github,git,gitlab,mysql,firebase,bash," alt="🛠️ Development Tools" />
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,mysql,firebase,bash,webpack" alt="🛠️ Development Tools" />
 </p>
 
 <p align="center">
