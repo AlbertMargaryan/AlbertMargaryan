@@ -31,7 +31,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  ## 🧰 Languages and Tools:
+  <h3> 🧰 Languages and Tools: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages" />
   </a>
