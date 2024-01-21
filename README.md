@@ -30,12 +30,12 @@
 
 
 ## 🧰 Languages and Tools:
-<p style="font-size:50px;">
-  <p align="center">
+<p >
+  <p align="center" style="font-size:50px;">
     💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages"/>
   </p>
   
-  <p align="center">
+  <p align="center" style="font-size:50px;">
     🌐 Web Development <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Web Development" />
   </p>
   
