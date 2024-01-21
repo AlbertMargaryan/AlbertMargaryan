@@ -31,7 +31,25 @@
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,python,java,html,css,github,gitlab,mysql,firebase,nodejs,figma,photoshop,illustrator" />
+    <img src="https://skillicons.dev/icons?i=js,react,python,java" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,mysql,firebase,figma" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
   </a>
 </p>
 
