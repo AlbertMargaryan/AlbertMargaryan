@@ -40,20 +40,17 @@
 </p>
 
 <p align="center">
- 
-  ### 🌐 Web Development 
+ <h3 align="center">🌐 Web Development</h1> 
  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs" alt="🌐 Web Development" />
 </p>
 
 <p align="center">
- 
-  ### 🛠️ Development Tools 
+ <h3 align="center">🛠️ Development Tools</h1> 
   <img src="https://skillicons.dev/icons?i=github,git,gitlab,mysql,firebase,bash,webpack" alt="🛠️ Development Tools" />
 </p>
 
 <p align="center">
- 
-  ### 🎨 Design Tools 
+ <h3 align="center">🎨 Design Tools:</h1> 
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" alt="🎨 Design Tools" />
 </p>
 
