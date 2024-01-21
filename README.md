@@ -54,34 +54,23 @@
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="🎨 Design Tools" />
 </p>
 
-## :blue_book: Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with Git and GitHub: A simple roadmap](https://dev.to/charalambosioannou/getting-started-with-git-and-github-a-simple-roadmap-lfn)
-- [Dream Job vs. Tech Job?](https://dev.to/charalambosioannou/dream-job-vs-tech-job-5fdj)
-- [Create an Awesome Cover Letter with GPT-3](https://dev.to/charalambosioannou/create-an-awesome-cover-letter-with-gpt-3-4f65)
-- [10+1 Useful Python Code Snippets for Everyday Problems](https://dev.to/charalambosioannou/10-useful-one-liner-python-code-snippets-to-make-your-everyday-coding-useful-javascript-code-snippets-for-common-problems-351)
-- [Develop a mobile app with NO coding!!](https://dev.to/charalambosioannou/develop-a-mobile-app-without-one-line-of-code-oeh)
-<!-- BLOG-POST-LIST:END -->
-
-
-
 ## :trophy: My Github Stats:
 
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=AlbertMargaryan&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=AlbertMargaryan&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertMargaryan&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMargaryan&hide=php&theme=tokyonight" />
 </a>
 </div>
 
 
 
-[website]: https://charalambosioannou.tech
-[linkedin]: https://linkedin.com/in/charalambosioannou
+[website]: https://AlbertMargaryan.tech
+[linkedin]: https://linkedin.com/in/AlbertMargaryan
 [mail]: mailto:cioannou1997@gmail.com
