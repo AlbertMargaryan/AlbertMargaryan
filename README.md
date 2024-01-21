@@ -30,7 +30,7 @@
 
 
 ## 🧰 Languages and Tools:
-<p style="font-size:25px;">
+<p style="font-size:50px;">
   <p align="center">
     💻 Programming Languages <img src="https://skillicons.dev/icons?i=js,react,python,java" alt="Programming Languages"/>
   </p>
@@ -47,6 +47,7 @@
     🎨 Design Tools <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design Tools"/>
   </p>
 </p>
+
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Git and GitHub: A simple roadmap](https://dev.to/charalambosioannou/getting-started-with-git-and-github-a-simple-roadmap-lfn)
