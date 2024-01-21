@@ -30,9 +30,9 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <a href="https://skillicons.dev"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm">
- </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,python,java,html,css,github,gitlab,mysql,firebase,nodejs,figma,photoshop,illustrator" />
+  </a>
 </p>
 
 <br />
