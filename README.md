@@ -3,15 +3,15 @@
 
 
 
+## 🚀 Web Developer | First-Year Honours BSc Student
 
-## 🎓 First-Year Honours BSc Student in Computer Science @ Toronto Metropolitan University (Formerly Ryerson)
-
-- 🚀 Currently working as a Front-end Developer on various freelance projects.
-- 🌐 Experienced in designing and developing visually appealing and responsive frontend components.
-- 🤝 Collaborating closely with clients to understand their requirements and goals.
-- 🛠️ Proficient in technologies such as Javascript (jQuery), React, Python, Java, HTML, CSS (SASS/SCSS), and more.
+- 🌐 Freelance Front-end Developer | 💼 Actively seeking collaborative opportunities  
+- 📚 Currently honing skills in Javascript, React, Python, and more  
+- 🎓 First-Year Honours Bachelor of Science in Computer Science @ Toronto Metropolitan University
+- 🌐 Experienced in developing and designing visually appealing and responsive frontend components.
 - 📚 Continuously expanding skills and staying updated on industry trends.
-- 🌟 Committed to delivering engaging user experiences and implementing effective backend functionalities.
+<!--🔗 [Portfolio](your-portfolio-link) | 📧 your-email@gmail.com -->
+
 
 ## :email: Find me on:
 
