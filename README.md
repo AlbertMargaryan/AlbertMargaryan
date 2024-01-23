@@ -6,10 +6,10 @@
 ## 🚀 Web Developer | First-Year Honours BSc Student
 
 - 🌐 Freelance Front-end Developer | 💼 Actively seeking 2024 summer internships!
-- 📚 Currently honing skills in Javascript, React, Python, and more  
+- 📚 Currently honing skills in Javascript, React, Python, and more
 - 🎓 First-Year Honours Bachelor of Science in Computer Science @ Toronto Metropolitan University
-- 🌐 Experienced in developing and designing visually appealing and responsive frontend components.
-- 📚 Continuously expanding skills and staying updated on industry trends.
+- 🌐 Experienced in developing and designing visually appealing and responsive frontend components
+- 📚 Continuously expanding skills and staying updated on industry trends
 <!--🔗 [Portfolio](your-portfolio-link) | 📧 your-email@gmail.com -->
 
 
