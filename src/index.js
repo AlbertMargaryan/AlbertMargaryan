@@ -19,7 +19,6 @@ function handleScrolling(sectionClasses) {
         if (isScrollBlocked) {
             return 0;
         }
-
         const direction = event.deltaY > 0 ? "down" : "up";
 
         if (direction === "down") {
@@ -33,6 +32,10 @@ function handleScrolling(sectionClasses) {
                 scrollToSection(currentSectionIndex);
             }
         }
+    isScrollBlocked = true;
+    setTimeout(() => {
+        isScrollBlocked = false;
+    }, 1000);
     }
 
     function scrollToSection(index) {

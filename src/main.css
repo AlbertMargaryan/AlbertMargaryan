@@ -15,22 +15,22 @@ body::-webkit-scrollbar {
 }
 
 .about {
-	background-color: red;
+	background-color: #D02640;
 	height: 100vh;
 }
 
 .showcase {
-	background-color: blue;
+	background-color: #5E5EDB;
 	height: 100vh;	
 }
 
 .skills {
-	background-color: green;
+	background-color: #6BDB7E;
 	height: 100vh;	
 }
 
 .contact {
-	background-color: yellow;
+	background-color: #FFFC5C;
 	height: 100vh;	
 }
 
