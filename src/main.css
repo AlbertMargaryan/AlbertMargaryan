@@ -14,6 +14,17 @@ body::-webkit-scrollbar {
     display: none;
 }
 
+.smooth-scroll {
+	margin: 0 15px;
+	font-size: 18px;
+	color: none;
+	text-decoration: none;
+}
+
+.smooth-scroll:visited {
+	color: white;
+}
+
 .about {
 	background-color: #D02640;
 	height: 100vh;
@@ -36,5 +47,55 @@ body::-webkit-scrollbar {
 
 
 .navbar-top {
+	top: 25px;
+	right: 25px;
 	position: fixed;
+}
+
+#about-scroll {
+	color: blue;
+}
+
+.logo-container {
+	position: fixed;
+	top: 25px;
+	left: 25px;
+}
+
+.logo {
+	widows: 100px;
+	height: 100px;
+}
+
+.scroll-down {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	left: 25px;
+	font-size: 18px;
+}
+
+.horizontal-text {
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	margin: 0;
+}
+
+.horizontal-line{
+	margin-top: 10px;
+	width: 2px;
+	height: 150px;
+	background-color: black;
+}
+
+.side-bar {
+	position: fixed;
+	right: 25px;
+	top: 50%;
+	width: 50px;
+	height: 200px;
+	background-color: black;
+	transform: translate(0, -50%);
 }
