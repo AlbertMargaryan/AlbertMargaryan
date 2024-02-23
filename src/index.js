@@ -136,3 +136,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+document.querySelectorAll('.card').forEach((element) => {
+    element.addEventListener('click', () => {})
+})

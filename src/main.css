@@ -152,15 +152,12 @@ body::-webkit-scrollbar {
 
 .card {
   flex: 0 0 calc(100% / 3);
-  text-align: center;
-  background: #f0f0f0;
-  border: 1px solid #ccc;
   height: 400px;
 }
 
 .left-button, .right-button{
 	position: absolute;
-	top: 50%;
+	top: 40%;
   	transform: translateY(-50%);
   	border: none;
   	background: #007bff;
@@ -175,4 +172,103 @@ body::-webkit-scrollbar {
 
 .right-button {
   right: 0;
+}
+
+.skills-used {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 70%;
+	display: none;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.one-skill {
+	flex: 0 0 0;
+	display: inline-block;
+	padding: 5px 10px;
+	border: 1px solid white;
+	margin: 10px;
+	border-radius: 20px;
+	color: white;
+	transition: background-color 0.1s ease, color 0.1s ease;
+}
+
+.card-img-container {
+  width: 90%;
+  height: 60%;
+  overflow: hidden;
+  border-radius: 15px;
+  position: relative;
+  background-image: url('media/pfp.png');
+  background-size: 100%;
+  background-position: center;
+  background-clip: noclip;
+  transition: background-size 0.5s ease;
+}
+
+.card-img {
+  width: 100%;
+}
+
+.card-img-container:hover {
+  background-size: 120%;
+
+}
+
+.skills-used,
+.overlay-grey {
+  display: none;
+}
+
+.skills-used {
+  display: none;
+  opacity: 0; /* Set initial opacity to 0 */
+  animation: fadeIn 0.5s ease forwards;
+}
+
+.overlay-grey {
+	width: 100%;
+    height: 100%;
+	opacity: 0;
+	background-color: #000;
+	transition: fadeInGrey 0.5s ease forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInGrey {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.2;
+  }
+}
+
+.card-img-container:hover .skills-used {
+  display: flex;
+  opacity: 1;
+}
+
+.card-img-container:hover .overlay-grey {
+  display: block;
+  opacity: 0.2;
+}
+
+.card:hover {
+	cursor: pointer;
+}
+
+.one-skill:hover {
+	background-color: #fff;
+	color: #000;
 }
