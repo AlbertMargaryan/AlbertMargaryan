@@ -64,7 +64,7 @@ function handleScrolling(sectionClasses) {
         section.scrollIntoView({ behavior: "smooth" });
         //Manipulate navbar
         document.querySelectorAll('.smooth-scroll').forEach((elem) => {
-            elem.style.color = 'white';
+            elem.style.color = 'black';
         })
         document.querySelector("#"+sections[index]+"-scroll").style.color = 'blue';
         if ((dir === 'down') || (index === 0)) {
@@ -83,7 +83,7 @@ function handleScrolling(sectionClasses) {
             e.preventDefault();
             //Manipulate navbar
             smoothScrollLinks.forEach((elem) => {
-                elem.style.color = 'white';
+                elem.style.color = 'black';
             })
             e.target.style.color = 'blue';
             const targetId = this.getAttribute('href').substring(1);
@@ -112,3 +112,27 @@ const scrolling = handleScrolling(sections);
 
 // Unblock scrolling
 // scrolling.unblockScroll();
+
+
+//Carousel:
+document.addEventListener("DOMContentLoaded", function () {
+  const carousel = document.querySelector(".carousel");
+  const cardWidth = carousel.querySelector(".card").offsetWidth;
+  const numCards = carousel.querySelectorAll(".card").length;
+  const containerWidth = carousel.offsetWidth;
+  let currentIndex = 0;
+
+  document.querySelector(".right-button").addEventListener("click", function () {
+    if (currentIndex < numCards - 3) {
+      currentIndex += 3;
+      carousel.style.transform = `translateX(-${currentIndex * cardWidth}px)`;
+    }
+  });
+
+  document.querySelector(".left-button").addEventListener("click", function () {
+    if (currentIndex > 0) {
+      currentIndex -= 3;
+      carousel.style.transform = `translateX(-${currentIndex * cardWidth}px)`;
+    }
+  });
+});
