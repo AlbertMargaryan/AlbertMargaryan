@@ -1,8 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body {
 	margin: 0;
 	padding: 0;
 	scroll-behavior: smooth;
 	overflow-y: hidden;
+	background-color: #FFFFFB;
+	color: #1E1C1C !important;
+	font-family: 'Raleway';
+}
+
+a, p {
+	font-family: 'Montserrat';
+	font-size: 14px;
+
+}
+
+p {
+	line-height: 20px;
 }
 
 body {
@@ -16,13 +39,14 @@ body::-webkit-scrollbar {
 
 .smooth-scroll {
 	margin: 0 15px;
-	font-size: 18px;
+	font-size: 16px;
 	color: none;
 	text-decoration: none;
+	color: #000;
 }
 
 .smooth-scroll:visited {
-	color: black;
+	color: #000;
 }
 
 .about {
@@ -43,10 +67,12 @@ body::-webkit-scrollbar {
 }
 
 .contact {
-	background-color: #FFFC5C;
+	display: flex;
 	height: 100vh;	
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
 }
-
 
 .navbar-top {
 	top: 25px;
@@ -55,13 +81,19 @@ body::-webkit-scrollbar {
 }
 
 #about-scroll {
-	color: blue;
+	color: #1034A6;
 }
 
 .logo-container {
 	position: fixed;
 	top: 25px;
 	left: 25px;
+}
+
+.logo-container h2 {
+	margin: 0;
+	margin-bottom: 5px;
+	font-size: 18px;
 }
 
 .logo {
@@ -83,13 +115,14 @@ body::-webkit-scrollbar {
 	writing-mode: vertical-rl;
 	text-orientation: mixed;
 	margin: 0;
+	font-size: 16px;
 }
 
 .horizontal-line{
 	margin-top: 10px;
 	width: 2px;
 	height: 150px;
-	background-color: black;
+	background-color: #000;
 }
 
 .side-bar {
@@ -97,8 +130,11 @@ body::-webkit-scrollbar {
 	right: 25px;
 	top: 50%;
 	width: 50px;
-	height: 200px;
-	background-color: black;
+	height: 150px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	align-items: center;
 	transform: translate(0, -50%);
 }
 
@@ -124,10 +160,13 @@ body::-webkit-scrollbar {
 }
 
 .pfp {
-	width: 90%;
-	-webkit-box-shadow: 50px 50px 0px 0px rgba(232,230,230,1);
-	-moz-box-shadow: 50px 50px 0px 0px rgba(232,230,230,1);
-	box-shadow: 50px 50px 0px 0px rgba(232,230,230,1);
+	margin-left: -150px;
+	margin-top: -50px;
+	width: 85%;
+	border: 3px solid #000;
+	-webkit-box-shadow: 75px 75px 0px 0px rgba(232,230,230,1);
+	-moz-box-shadow: 75px 75px 0px 0px rgba(232,230,230,1);
+	box-shadow: 75px 75px 0px 0px rgba(232,230,230,1);
 }
 
 .projects-container {
@@ -160,13 +199,15 @@ body::-webkit-scrollbar {
 }
 
 .left-button, .right-button{
+	width: 25px;
 	position: absolute;
 	top: 40%;
   transform: translateY(-50%);
   border: none;
-  background: #fff;
+  background: #FFFFFB;
   color: #000;
-  padding: 10px 15px;
+  border: 2px solid #000;
+  padding: 10px 10px;
   cursor: pointer;
 }
 
@@ -192,10 +233,11 @@ body::-webkit-scrollbar {
 	flex: 0 0 0;
 	display: inline-block;
 	padding: 5px 10px;
-	border: 1px solid white;
-	margin: 10px;
+	border: 1px solid #fff;
+	margin: 8px;
 	border-radius: 20px;
-	color: white;
+	color: #fff;
+	font-size: 14px;
 	transition: background-color 0.1s ease, color 0.1s ease;
 }
 
@@ -203,12 +245,13 @@ body::-webkit-scrollbar {
   width: 100%;
   height: 60%;
   overflow: hidden;
-  border-radius: 15px;
+  border-radius: 5px;
   position: relative;
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
   transition: background-size 0.5s ease;
+  border: 2px solid #000;
 }
 
 .card-img {
@@ -216,8 +259,7 @@ body::-webkit-scrollbar {
 }
 
 .card-img-container:hover {
-  background-size: 120%;
-
+  background-size: 110%;
 }
 
 .skills-used,
@@ -233,7 +275,7 @@ body::-webkit-scrollbar {
 
 .overlay-grey {
 	width: 100%;
-    height: 100%;
+  height: 100%;
 	opacity: 0;
 	background-color: #000;
 	transition: fadeInGrey 0.5s ease forwards;
@@ -248,13 +290,22 @@ body::-webkit-scrollbar {
   }
 }
 
+
 @keyframes fadeInGrey {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.4;
-  }
+    0% {
+        display: none;
+        opacity: 0;
+    }
+
+    1% {
+        display: block;
+        opacity: 0;
+    }
+
+    100% {
+        display: block;
+        opacity: 0.4;
+    }
 }
 
 .card-img-container:hover .skills-used {
@@ -294,21 +345,67 @@ body::-webkit-scrollbar {
 	width: 25%;
 	padding: 15px 25px;
 	margin: 15px 0;
-	border: 1px solid #000;
+	border: 2px solid #000;
+	-webkit-box-shadow: 20px 20px 0px 0px rgba(232,230,230,1);
+	-moz-box-shadow: 20px 20px 0px 0px rgba(232,230,230,1);
+	box-shadow: 20px 20px 0px 0px rgba(232,230,230,1);
 }
 
 .skills-box p {
 	margin: 0;
+	margin-left: 15px;
 }
 
 .skills-box img {
 	display: inline;
-	width: 18px;
-	height: 18px;
-	margin-right: 10px;
+	max-width: 18px; /*Remove this line*/
+	max-height: 18px;
+	margin-right: px;
 }
 
-.skills-box div {
+.skills-box > div {
 	display: flex;
 	margin: 3px 0;
+}
+
+.skills-box > h3 {
+	margin-top: 5px;
+}
+
+.skill-img-container {
+	width: 18px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.contact-container {
+	width: 80%;
+	height: 75%;
+	margin-top: 50px;
+}
+
+.social-contacts {
+	width: 180px;
+	height: 50px;
+	margin-top: 25px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.contact-text {
+	width: 30%;
+	margin-top: 40px;
+}
+
+.copyright-container {
+	height: 50px;
+	display: flex;
+	align-items: flex-end;
+}
+
+.side-bar img {
+	width: 25px;
 }

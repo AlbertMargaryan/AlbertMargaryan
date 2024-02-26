@@ -46,7 +46,7 @@ function handleScrolling(sectionClasses) {
         if (dir === 'down') {
             x *= 1.08;
             elem.style.bottom = parseInt(elem.style.bottom) - (1 * x) + 'px'
-            if (parseInt(elem.style.bottom) < -250) {
+            if (parseInt(elem.style.bottom) < -300) {
                 clearInterval(int)
             }
         } else {
@@ -66,7 +66,7 @@ function handleScrolling(sectionClasses) {
         document.querySelectorAll('.smooth-scroll').forEach((elem) => {
             elem.style.color = 'black';
         })
-        document.querySelector("#"+sections[index]+"-scroll").style.color = 'blue';
+        document.querySelector("#"+sections[index]+"-scroll").style.color = '#1034A6';
         if ((dir === 'down') || (index === 0)) {
             let elem = document.querySelector(".scroll-down");
             x = 1;
@@ -85,7 +85,7 @@ function handleScrolling(sectionClasses) {
             smoothScrollLinks.forEach((elem) => {
                 elem.style.color = 'black';
             })
-            e.target.style.color = 'blue';
+            e.target.style.color = '#1034A6';
             const targetId = this.getAttribute('href').substring(1);
             const newIndex = sectionClasses.indexOf(targetId);
             currentSectionIndex = newIndex;
