@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     window.scrollTo(0,0);
 });
 
+
 let pos = 0;
 let int = null;
 let x;
