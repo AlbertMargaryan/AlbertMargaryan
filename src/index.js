@@ -105,8 +105,14 @@ function handleScrolling(sectionClasses) {
 
 
 const sections = ["about", "showcase", "skills", "contact"];
+let carouselSlides = 3;
 
-const scrolling = handleScrolling(sections);
+if (!(/Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))) {
+   const scrolling = handleScrolling(sections);
+} else {
+    carouselSlides = 1;
+}
+
 
 // Block scrolling
 // scrolling.blockScroll();
@@ -117,6 +123,7 @@ const scrolling = handleScrolling(sections);
 
 //Carousel:
 document.addEventListener("DOMContentLoaded", function () {
+    console.log(carouselSlides)
   const carousel = document.querySelector(".carousel");
   const cardWidth = carousel.querySelector(".card").offsetWidth;
   const numCards = carousel.querySelectorAll(".card").length;
@@ -124,15 +131,15 @@ document.addEventListener("DOMContentLoaded", function () {
   let currentIndex = 0;
 
   document.querySelector(".right-button").addEventListener("click", function () {
-    if (currentIndex < numCards - 3) {
-      currentIndex += 3;
+    if (currentIndex < numCards - carouselSlides) {
+      currentIndex += carouselSlides;
       carousel.style.transform = `translateX(-${currentIndex * cardWidth}px)`;
     }
   });
 
   document.querySelector(".left-button").addEventListener("click", function () {
     if (currentIndex > 0) {
-      currentIndex -= 3;
+      currentIndex -= carouselSlides;
       carousel.style.transform = `translateX(-${currentIndex * cardWidth}px)`;
     }
   });
