@@ -420,6 +420,13 @@ body::-webkit-scrollbar {
 	width: 25px;
 }
 
+.menu-open {
+	display: none;
+}
+
+.navbar-mobile {
+	display: none;
+}
 
 @media only screen and (max-width: 600px) {
 	body {
@@ -519,5 +526,30 @@ body::-webkit-scrollbar {
 	.navbar-top {
 		display: none;
 	}
+	.menu-open {
+		display: block;
+		position: fixed;
+		top: 25px;
+		right: 25px;
+	}
 
+	.navbar-mobile {
+		display: flex;
+		width: 100%;
+		background-color: #FFFFFB;
+		position: fixed;
+		top: -250px;
+	}
+
+	.navnbar-links {
+		display: flex;
+		width: 100%;
+		justify-content: space-around;
+		align-items: center;
+		padding: 15px 0;
+
+	}
+	.menu-open:hover + .navbar-mobile {
+		top: 0px;
+	}
 }

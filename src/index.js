@@ -123,7 +123,6 @@ if (!(/Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test
 
 //Carousel:
 document.addEventListener("DOMContentLoaded", function () {
-    console.log(carouselSlides)
   const carousel = document.querySelector(".carousel");
   const cardWidth = carousel.querySelector(".card").offsetWidth;
   const numCards = carousel.querySelectorAll(".card").length;
@@ -144,3 +143,28 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+/* document.querySelector('.menu-open').addEventListener('click', (e) => {
+    let navbar = document.querySelector('.navbar-mobile');
+    document.querySelector('.navbar-mobile').style.top = "-" + navbar.clientHeight;
+    let animatemenu = setInterval(() => {
+        let computedStyle = window.getComputedStyle(navbar);
+        topString = computedStyle.top;
+        if (topString.endsWith('px')) {
+            topString = topString.slice(0, -2); // Remove the last two characters ("px")
+            topValue = parseInt(topString, 10); // Convert the value to an integer
+        }
+        console.log(topValue)
+        if(topValue == 0) {
+            clearInterval(animatemenu);
+            return 0
+        }
+        document.querySelector('.navbar-mobile').style.top = topValue + 1 + 'px';
+    }, 2)
+    
+}) */
+
+document.querySelector('.menu-open').addEventListener('click', (e) => {
+    let target = e.target;
+    document.querySelector('.navbar-mobile').style.bottom = '0';
+})
