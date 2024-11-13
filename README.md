@@ -3,7 +3,7 @@
 
 
 
-## 🚀 Web Developer | First-Year Honours BSc Student
+## 🚀 Web Developer | Honours BSc Student @ TMU
 
 - 🌐 Freelance Front-end Developer | 💼 Actively seeking 2024 summer internships!
 - 📚 Currently honing skills in Javascript, React, Python, and more
