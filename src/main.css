@@ -347,11 +347,35 @@ body::-webkit-scrollbar {
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-items: space-around;
+	flex-direction: row;
+}
+
+.skills-box-cont {
+	display: flex;
+	justify-content: space-around;
+	align-items: start;
+
+}
+
+.skills-box-left, .skills-box-right {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: space-around;
+	flex-direction: column;
+}
+
+.skills-box-left > div {
+	display: flex;
+	margin: 3px 0;
+}
+
+.skills-box-right > div {
+	display: flex;
+	margin: 3px 0;
 }
 
 .skills-box {
-	display: flex;
-	flex-direction: column;
 	width: 25%;
 	padding: 15px 25px;
 	margin: 15px 0;
