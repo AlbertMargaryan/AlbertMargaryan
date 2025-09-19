@@ -5,7 +5,7 @@
 
 ## 🚀 Web Developer | Honours BSc Student @ TMU
 
-- 🌐 Freelance Front-end Developer | 💼 Actively seeking 2024 summer internships!
+- 🌐 Freelance Front-end Developer | 💼 Actively seeking 2026 winter internships!
 - 📚 Currently honing skills in Javascript, React, Python, and more
 - 🎓 First-Year Honours Bachelor of Science in Computer Science @ Toronto Metropolitan University
 - 🌐 Experienced in developing and designing visually appealing and responsive frontend components
