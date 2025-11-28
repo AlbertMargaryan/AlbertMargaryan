@@ -357,6 +357,7 @@ body::-webkit-scrollbar {
 
 }
 
+
 .skills-box-left, .skills-box-right {
 	display: flex;
 	flex-wrap: wrap;
@@ -404,6 +405,10 @@ body::-webkit-scrollbar {
 
 .skills-box > h3 {
 	margin-top: 5px;
+}
+
+.alone div{
+	margin-left: 25px;
 }
 
 .skill-img-container {
