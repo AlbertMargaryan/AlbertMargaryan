@@ -33,7 +33,7 @@
 
  <h3 align="center">💻 Programming Languages </h3> 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="💻 Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="💻 Programming Languages" />
   </p>
 </p>
 
